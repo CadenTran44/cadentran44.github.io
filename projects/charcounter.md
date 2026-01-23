@@ -13,9 +13,7 @@ summary: "A program that reads a String and counts the frequency of each charact
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="600px" src="../img/charcounterout.png" class="img-thumbnail" >
 </div>
 
 This is a program I made in ICS 211 during summer of 2025 and in short is a Java app that counts the frequency of each character in a string, treating upper and lowercase letters as the same. This was built with a HashMap for more efficient tracking, as it demonstrates string manipulation, and basic algorithmic logic. This is good for text analysis and also was a good way for me to learn data structures in Java.
