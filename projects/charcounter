@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
+title: "Character Counter"
 date: 2025
 published: true
 labels:
@@ -10,7 +10,7 @@ labels:
   - Text Processing
   - HashMap
 
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "Counts the frequency of each character in a string using HashMap, this was made for my ICS 211 class in summer"
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
