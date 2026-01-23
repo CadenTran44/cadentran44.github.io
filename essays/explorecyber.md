@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "For Whats To Come"
+title: "Exploring Cybersecurity Within Software Engineering
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2026-1-22
 published: true
 labels:
   - Software Engineering
+  - Cybersecurity
   - Technical Essay
 ---
 
