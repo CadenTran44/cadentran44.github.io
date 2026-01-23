@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
-published: false
+image: img/p-80-java.webp
+title: "Character Counter"
+date: 2025
+published: true
 labels:
   - Robotics
   - Arduino
@@ -25,14 +25,41 @@ For this project, I was the lead programmer who was responsible for programming 
 Here is some code that illustrates how we read values from the line sensors:
 
 ```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
+import java.util.HashMap;
+import java.util.Map;
+
+public class CharacterCounter {
+
+    public static Map<Character, Integer> countCharacters(String text) {
+        Map<Character, Integer> charCountMap = new HashMap<>();
+
+        for (int i = 0; i < text.length(); i++) {
+            char c = Character.toLowerCase(text.charAt(i));
+
+            if (charCountMap.containsKey(c)) {
+                int currentCount = charCountMap.get(c);
+                charCountMap.put(c, currentCount + 1);
+            } else {
+                charCountMap.put(c, 1);
+            }
+        }
+
+        return charCountMap;
     }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+
+    public static void main(String[] args) {
+        String sampleText = "Hello World!"; // CHANGE THIS
+        Map<Character, Integer> characterCounts = countCharacters(sampleText);
+
+        if (characterCounts != null) {
+            System.out.println("Character Frequencies for \"" + sampleText + "\":");
+            for (Map.Entry<Character, Integer> entry : characterCounts.entrySet()) {
+                System.out.println("'" + entry.getKey() + "': " + entry.getValue());
+            }
+        } else {
+            System.out.println("Error: The countCharacters method returned null.");
+        }
+    }
 }
 ```
 
