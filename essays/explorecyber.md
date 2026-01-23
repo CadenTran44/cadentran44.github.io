@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Exploring Cybersecurity Within Software Engineering
+title: "Exploring Cybersecurity Within Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2026-1-22
 published: true
