@@ -7,8 +7,8 @@ date: 2025
 published: true
 labels:
   - C
-  - Text Processing
-  - HashMap
+  - Command Line Arguments Processing
+  - Basic Arithmetic Operations
 summary: "A program that performs basic arithmetic operations using user provided arguments."
 ---
 
@@ -20,7 +20,7 @@ This is a C-based command-line calculator that I made in ICS 212 that performs b
 
 The program shows fundamental C programming concepts such as command-line argument processing, input validation, function prototypes, and the use of function pointers to dynamically select arithmetic operations. By organizing each operation into its own function and using structured error handling, this project highlights efficient program design and low level problem-solving skills in C.
 
-**## Code Sample**
+**Code Sample**
 
 
 ```cpp
