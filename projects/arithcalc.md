@@ -13,14 +13,16 @@ summary: "A program that performs basic arithmetic operations using user provide
 ---
 
 <div class="text-center p-4">
-  <img width="600px" src="../img/arithcalcout.png" class="img-thumbnail" >
+  <img width="400px" src="../img/arithcalcout.png" class="img-thumbnail" >
 </div>
 
 This is a C-based command-line calculator that I made in ICS 212 that performs basic arithmetic operations, like addition, subtraction, multiplication, and division. The program accepts three command-line arguments in this order: a digit, an operator, and another digit. Then it validates the input to make sure it has correct formatting and the supported operations before execution.
 
 The program shows fundamental C programming concepts such as command-line argument processing, input validation, function prototypes, and the use of function pointers to dynamically select arithmetic operations. By organizing each operation into its own function and using structured error handling, this project highlights efficient program design and low level problem-solving skills in C.
 
-**Code Sample**
+You will also need a makefile which will be provided under the code.
+
+**Code Sample:**
 
 
 ```cpp
@@ -84,3 +86,13 @@ int div2(int a, int b) {
 
 // Example of command line argument: 3 . 2
 ```
+
+```cpp
+program: filename.o
+	gcc filename.o -o program -lm
+
+filename.o: filename.c
+	gcc -c filename.c
+
+  // Change "filename"
+  ```
