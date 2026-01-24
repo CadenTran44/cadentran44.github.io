@@ -20,8 +20,6 @@ This is a C-based command-line calculator that I made in ICS 212 that performs b
 
 The program shows fundamental C programming concepts such as command-line argument processing, input validation, function prototypes, and the use of function pointers to dynamically select arithmetic operations. By organizing each operation into its own function and using structured error handling, this project highlights efficient program design and low level problem-solving skills in C.
 
-You will also need a makefile which will be provided under the code.
-
 **Code Sample:**
 
 
@@ -86,14 +84,3 @@ int div2(int a, int b) {
 
 // Example of command line argument: 3 . 2
 ```
-**Makefile:**
-
-```cpp
-program: filename.o
-	gcc filename.o -o program -lm
-
-filename.o: filename.c
-	gcc -c filename.c
-
-// Change "filename"
-  ```
