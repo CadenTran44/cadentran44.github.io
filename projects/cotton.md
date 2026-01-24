@@ -13,7 +13,7 @@ summary: "A program that performs basic arithmetic operations using user provide
 ---
 
 <div class="text-center p-4">
-  <img width="600px" src="../img/charcounterout.png" class="img-thumbnail" >
+  <img width="600px" src="../img/arithcalcout.png" class="img-thumbnail" >
 </div>
 
 This is a C-based command-line calculator that I made in ICS 212 that performs basic arithmetic operations, like addition, subtraction, multiplication, and division. The program accepts three command-line arguments in this order: a digit, an operator, and another digit. Then it validates the input to make sure it has correct formatting and the supported operations before execution.
