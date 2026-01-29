@@ -1,4 +1,4 @@
----
+<img width="1298" height="709" alt="image" src="https://github.com/user-attachments/assets/72204700-070b-4b22-b379-99c6837cced3" />---
 layout: essay
 type: essay
 title: "Exploring Cybersecurity Within Software Engineering"
@@ -11,10 +11,7 @@ labels:
   - Technical Essay
 ---
 ## Interests in Security-Focused Software Engineering ##
-My main interests in software engineering are areas such as cybersecurity, network security, and cryptography. I’ve always been interested in how software can be designed not only to function correctly, but also to protect sensitive data and systems from potential threats. As technology becomes more connected, security feels like an essential part of software rather than an optional feature. Learning more about how security fits into the software development process has made me more curious about how vulnerabilities occur, why they are often overlooked, and what developers can do at the code level to prevent them before they become serious issues.
-<div class="text-center p-4">
-  <img width="400px" src="../img/cybersec2.jpg" class="img-thumbnail" >
-</div>
+My main interests in software engineering are areas such as cybersecurity, network security, and cryptography.<img width="400px" src="../img/cybersec2.jpg" class="img-thumbnail" > I’ve always been interested in how software can be designed not only to function correctly, but also to protect sensitive data and systems from potential threats. As technology becomes more connected, security feels like an essential part of software rather than an optional feature. Learning more about how security fits into the software development process has made me more curious about how vulnerabilities occur, why they are often overlooked, and what developers can do at the code level to prevent them before they become serious issues.
 
 ## Goals for Developing Technical Security Skills ##
 In the future, I hope to build stronger technical skills in secure software development and networking concepts. I want to better understand how encryption, authentication, and secure communication work, since these ideas play a major role in both cybersecurity and cryptography. Having a deeper understanding of how networks operate, how data moves between systems, and where weaknesses can appear is important for recognizing real-world security risks. Developing this knowledge would help me understand not just how attacks happen, but also how systems can be designed more securely from the start.
@@ -24,7 +21,8 @@ I also want to improve my problem-solving and analytical skills, since security-
 
 ## Long-Term Focuses ##
 I’m not aiming for anything too extreme, my main goal is to build strong fundamentals in software engineering and combine them with security-focused knowledge. Cybersecurity, network security, and cryptography all feel like areas where good coding practices, careful design, and strong problem-solving skills really make a difference. As I continue learning, I hope to gain the skills and experience needed to contribute to building secure, reliable, and well-designed systems that people can trust.
-<img width="300px" src="../img/cybersec.jpg" class="img-thumbnail" >
-
+<div class="text-center p-4">
+  <img width="300px" src="../img/cybersec.jpg" class="img-thumbnail" >
+</div>
 
 *Used ChatGPT to help with grammar/punctuation*
