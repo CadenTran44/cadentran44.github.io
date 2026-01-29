@@ -1,4 +1,4 @@
-<img width="1298" height="709" alt="image" src="https://github.com/user-attachments/assets/72204700-070b-4b22-b379-99c6837cced3" />---
+---
 layout: essay
 type: essay
 title: "Exploring Cybersecurity Within Software Engineering"
