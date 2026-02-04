@@ -60,5 +60,5 @@ public class CharacterCounter {
     }
 }
 
-// Change string "sampleText" to your own text
+// Change the string "sampleText" to your own text
 ```
