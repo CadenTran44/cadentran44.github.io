@@ -1,0 +1,27 @@
+---
+layout: essay
+type: essay
+title: "What Coding Standards Do"
+# All dates must be YYYY-MM-DD format!
+date: 2026-2-12
+published: true
+labels:
+  - Coding Standards
+  - ESLint
+  - Software Engineering Practices
+---
+## Why Coding Standards Matter ##
+My interests specifcally in software engineering include things like writing clean, reliable, and maintainable code. I’ve been pretty fascinated by how coding standards can guide not just how code looks, but also how it functions. At first, I thought coding standards were mostly about trivial things, like spaces versus tabs, line breaks, or where to put a curly brace, but I’ve come to see that they can be a powerful tool for improving software quality. Following these coding standards consistently would make code easier to read, easier to debug, and easier to collaborate on.
+
+## Learning Through Standards ##
+At the time of writing this, I've used ESLint with VSCode for about a week and a half and it has shown me how coding standards can also help teach a programming language. ESLint points out more than just stylistic issues—it flags unused variables, possible runtime errors, and risky patterns. Fixing these errors can feel tedious at times, but it also forces me to think critically about the language and its features. Over time, I’ve noticed that the mistakes ESLint catches most often are ones I stop making, which shows how standards can shape not just the code, but the coder.
+
+## Learning from a Not-So-Smart Question ##
+In contrast, this question lacks context and detail: [Not-so-SMART Question](https://stackoverflow.com/questions/33310772/python-nameerror-name-is-not-defined)
+
+In this question, the developer provides a Python code snippet that results in a NameError, but does not clearly explain where certain variables are supposed to come from or what the expected behavior of the program should be. The post also lacks a clear description of the full error message and does not explain what debugging steps were already taken. Because of this missing context, responders are forced to guess what the developer is trying to accomplish. As you may guess, many of responses focus on general advice about variable scope rather than directly addressing a clearly defined problem. This example shows how unclear questions can make it harder to get efficient and specific help.
+
+## Insights Gained ##
+Comparing these examples helped me see why asking smart questions matters. A well written question will lead to faster, clearer, and more meaningful answers, while poorly written ones force others to guess and reduce collaboration. Learning to ask good questions takes effort, but it ultimately improves communication, learning, and problem-solving in software engineering.
+
+*Used ChatGPT to help with grammar*
