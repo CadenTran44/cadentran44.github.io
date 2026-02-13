@@ -19,7 +19,7 @@ At the time of writing this, I've used ESLint with VSCode for about a week and a
 
 For example:
 
-Before: const i = "Hello, World";
+<img width="300px" src="../img/tiredguy.png" class="img-thumbnail" >Before: const i = "Hello, World";
 
 After: const i = 'Hello, World';
 
