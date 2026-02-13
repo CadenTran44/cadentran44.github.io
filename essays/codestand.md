@@ -10,7 +10,7 @@ labels:
   - ESLint
   - Software Engineering Practices
 ---
-## Why Coding Standards Matter ##
+## Why They Matter ##
 My interests specifically in software engineering include things like writing clean, reliable, and maintainable code. I’ve been pretty fascinated by how coding standards can guide not just how code looks, but also how it functions. At first, I thought coding standards were mostly about trivial things, like spaces versus tabs, line breaks, or where to put a curly brace, but I’ve come to see that they can be a powerful tool for improving software quality. Following these coding standards consistently would make code easier to read, easier to debug, and easier to collaborate on.
 <div class="text-center p-4"><img width="300px" src="../img/coderead.png" class="img-thumbnail" ></div>
 
