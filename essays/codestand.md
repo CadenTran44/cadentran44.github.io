@@ -21,6 +21,8 @@ At the time of writing this, I've used ESLint with VSCode for about a week and a
     <img width="200px" src="../img/tiredguy.png" class="img-thumbnail">
 
   <div class="col-md-8">
+    <p><strong>For Example:</strong></p>
+    
     <p><strong>Before:</strong></p>
     <pre><code>const i = "Hello, World";</code></pre>
 
