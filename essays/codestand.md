@@ -27,7 +27,7 @@ At the time of writing this, I've used ESLint with VSCode for about a week and a
     <pre><code>const i = "Hello, World";</code></pre>
 
     <p><strong>After:</strong></p>
-    <pre><code>const i = 'Hello, World';</code></pre>
+    <pre><code>const i = "Hello, World";</code></pre>
   </div>
 </div>
 
