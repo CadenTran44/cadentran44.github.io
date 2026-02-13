@@ -19,7 +19,7 @@ At the time of writing this, I've used ESLint with VSCode for about a week and a
 
 <div class="row">
   <div class="col-md-4 text-center">
-    <img width="200px" src="../img/coderead.png" class="img-thumbnail">
+    <img width="200px" src="../img/tiredguy.png" class="img-thumbnail">
   </div>
 
   <div class="col-md-8">
