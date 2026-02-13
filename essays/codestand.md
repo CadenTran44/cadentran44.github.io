@@ -24,7 +24,7 @@ At the time of writing this, I've used ESLint with VSCode for about a week and a
     <pre><code>const i = "Hello, World";</code></pre>
 
     <p><strong>After:</strong></p>
-    <pre><code>const i = "Hello, World";</code></pre>
+    <pre><code>const i = 'Hello, World';</code></pre>
 </div>
 
 Even though these errors can feel very tedious and annoying at times, it also forces me to think critically about the language and its features. Over time, I’ve noticed that the mistakes ESLint catches most often are ones I stop making or the ones I fix the fastest, which shows how standards can shape not just the code, but the coder.
