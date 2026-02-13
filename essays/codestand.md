@@ -17,11 +17,19 @@ My interests specifically in software engineering include things like writing cl
 ## Learning Through Standards ##
 At the time of writing this, I've used ESLint with VSCode for about a week and a half, and it has shown me how coding standards can also help teach a programming language. ESLint points out more than just stylistic issues. It flags unused variables, possible runtime errors, and risky patterns.
 
-For example:
+<div class="row">
+  <div class="col-md-4 text-center">
+    <img width="200px" src="../img/coderead.png" class="img-thumbnail">
+  </div>
 
-<img width="300px" src="../img/tiredguy.png" class="img-thumbnail" >Before: const i = "Hello, World";
+  <div class="col-md-8">
+    <p><strong>Before:</strong></p>
+    <pre><code>const i = "Hello, World";</code></pre>
 
-After: const i = 'Hello, World';
+    <p><strong>After:</strong></p>
+    <pre><code>const i = 'Hello, World';</code></pre>
+  </div>
+</div>
 
 Even though these errors can feel very tedious and annoying at times, it also forces me to think critically about the language and its features. Over time, I’ve noticed that the mistakes ESLint catches most often are ones I stop making or the ones I fix the fastest, which shows how standards can shape not just the code, but the coder.
 
