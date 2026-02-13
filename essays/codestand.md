@@ -15,7 +15,15 @@ My interests specifically in software engineering include things like writing cl
 <div class="text-center p-4"><img width="300px" src="../img/coderead.png" class="img-thumbnail" ></div>
 
 ## Learning Through Standards ##
-At the time of writing this, I've used ESLint with VSCode for about a week and a half, and it has shown me how coding standards can also help teach a programming language. ESLint points out more than just stylistic issues. It flags unused variables, possible runtime errors, and risky patterns. Fixing these errors can feel tedious at times, but it also forces me to think critically about the language and its features. Over time, I’ve noticed that the mistakes ESLint catches most often are ones I stop making or the ones I fix the fastest, which shows how standards can shape not just the code, but the coder.
+At the time of writing this, I've used ESLint with VSCode for about a week and a half, and it has shown me how coding standards can also help teach a programming language. ESLint points out more than just stylistic issues. It flags unused variables, possible runtime errors, and risky patterns.
+
+For example:
+
+Before: const i = "Hello, World";
+
+After: const i = 'Hello, World';
+
+Even though these errors can feel very tedious and annoying at times, it also forces me to think critically about the language and its features. Over time, I’ve noticed that the mistakes ESLint catches most often are ones I stop making or the ones I fix the fastest, which shows how standards can shape not just the code, but the coder.
 
 ## Building Skills and Habits ##
 I also want to use coding standards to strengthen my problem-solving and attention-to-detail skills. Writing code that consistently follows rules requires careful thought and foresight, which is similar to debugging or designing systems for reliability. The small mistakes ESLint catches, such as misused functions or inconsistent variable names, often reflect bigger issues that could cause bugs later. Practicing these habits early helps me write safer, more predictable code and builds confidence in my coding abilities.
