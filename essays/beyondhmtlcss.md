@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "What Coding Standards Do"
+title: "Beyond HTML & CSS"
 # All dates must be YYYY-MM-DD format!
-date: 2026-02-12
+date: 2026-02-26
 published: true
 labels:
   - Coding Standards
   - ESLint
   - Software Engineering Practices
 ---
-## Why They Matter ##
+## The Value of UI Frameworks ##
 My interests specifically in software engineering include things like writing clean, reliable, and maintainable code. I’ve been pretty fascinated by how coding standards can guide not just how code looks, but also how it functions. At first, I thought coding standards were mostly about trivial things, like spaces versus tabs, line breaks, or where to put a curly brace, but I’ve come to see that they can be a powerful tool for improving software quality. Following these coding standards consistently would make code easier to read, easier to debug, and easier to collaborate on.
 
 ## Learning Through Standards ##
