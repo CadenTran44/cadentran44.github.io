@@ -17,7 +17,7 @@ While the learning curve can feel steep, UI frameworks offer important benefits 
 
 <img width="400px" src="../img/uiframeworks.jpg" class="img-thumbnail" >
 
-## Why Not Just Use Raw HTML and CSS? What UI Do Frameworks Offer ##
+## Raw HTML and CSS: What UI Do Frameworks Offer ##
 Raw HTML and CSS provide full control over design and layout. For small projects, this approach can work well and helps build a strong foundation. You learn how positioning, margins, padding, and responsiveness work at a deeper level.
 <img src="../img/htmlandcss.png"
      class="img-thumbnail float-end ms-3 mb-2"
