@@ -20,7 +20,7 @@ Raw HTML and CSS provide full control over design and layout. For small projects
 
 However, as projects grow larger, maintaining consistency becomes more difficult. You may find yourself rewriting similar CSS rules and troubleshooting layout issues repeatedly. Ensuring responsiveness across devices can also require significant manual effort. Over time, this can slow development and make collaboration more challenging.
 
-htmlandcss.png
+<img width="400px" src="../img/htmlandcss.png" class="img-thumbnail" >
 
 ## What UI Frameworks Offer ##
 This is where frameworks like Bootstrap 5 become valuable. They provide a structured grid system, responsive utilities, and prebuilt components such as navbars, containers, and cards. Instead of building everything from scratch, you use a tested and organized system.
