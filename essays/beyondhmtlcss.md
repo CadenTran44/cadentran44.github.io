@@ -6,33 +6,32 @@ title: "Beyond HTML & CSS"
 date: 2026-02-26
 published: true
 labels:
-  - Coding Standards
-  - ESLint
-  - Software Engineering Practices
+  - UI Frameworks
+  - Web Design
+  - Web Development
 ---
 ## The Value of UI Frameworks ##
-My interests specifically in software engineering include things like writing clean, reliable, and maintainable code. I’ve been pretty fascinated by how coding standards can guide not just how code looks, but also how it functions. At first, I thought coding standards were mostly about trivial things, like spaces versus tabs, line breaks, or where to put a curly brace, but I’ve come to see that they can be a powerful tool for improving software quality. Following these coding standards consistently would make code easier to read, easier to debug, and easier to collaborate on.
+UI frameworks are not simple. Learning something like Bootstrap 5 can feel almost like learning a new programming language. There are new class names, layout systems, and design conventions to understand. At first, it can feel frustrating. If HTML and CSS already exist, why add another layer on top? Why not just use raw HTML and CSS?
 
-## Learning Through Standards ##
-At the time of writing this, I've used ESLint with VSCode for about a week and a half, and it has shown me how coding standards can also help teach a programming language. ESLint points out more than just stylistic issues. It flags unused variables, possible runtime errors, and risky patterns.
+While the learning curve can feel steep, UI frameworks offer important benefits that become clearer over time. They are not just collections of styles, but structured systems designed to improve how we build and maintain web interfaces.
 
-  <div class="col-md-8">
-    <p><strong>For Example:</strong></p>
-    
-    <p><strong>Before:</strong></p>
-    <pre><code>const i = "Hello, World";</code></pre>
+## Why Not Just Use Raw HTML and CSS? ##
+Raw HTML and CSS provide full control over design and layout. For small projects, this approach can work well and helps build a strong foundation. You learn how positioning, margins, padding, and responsiveness work at a deeper level.
 
-    <p><strong>After:</strong></p>
-    <pre><code>const i = 'Hello, World';</code></pre>
-</div>
+However, as projects grow larger, maintaining consistency becomes more difficult. You may find yourself rewriting similar CSS rules and troubleshooting layout issues repeatedly. Ensuring responsiveness across devices can also require significant manual effort. Over time, this can slow development and make collaboration more challenging.
 
-Even though these errors can feel very tedious and annoying at times, it also forces me to think critically about the language and its features. Over time, I’ve noticed that the mistakes ESLint catches most often are ones I stop making or the ones I fix the fastest, which shows how standards can shape not just the code, but the coder.
-<img width="200px" src="../img/tiredguy.png" class="img-thumbnail" >
+## What UI Frameworks Offer ##
+This is where frameworks like Bootstrap 5 become valuable. They provide a structured grid system, responsive utilities, and prebuilt components such as navbars, containers, and cards. Instead of building everything from scratch, you use a tested and organized system.
 
-## Building Skills and Habits ##
-I also want to use coding standards to strengthen my problem-solving and attention-to-detail skills. Writing code that consistently follows rules requires careful thought and foresight, which is similar to debugging or designing systems for reliability. The small mistakes ESLint catches, such as misused functions or inconsistent variable names, often reflect bigger issues that could cause bugs later. Practicing these habits early helps me write safer, more predictable code and builds confidence in my coding abilities.
+One of the biggest benefits is efficiency. With a few well-chosen classes, you can create responsive layouts that look clean and professional. Another key benefit is consistency. UI frameworks follow a unified design system, making spacing, breakpoints, and components predictable.
 
-## Long-Term Focus ##
-In the end though, I'm not aiming to become a “rule follower”, as that's too much. Instead, my main goal is to combine strong coding fundamentals with habits that improve code quality, readability, and maintainability. Coding standards, linting tools, and consistent practices all feel like areas where small efforts can make a big difference. As I continue learning, I hope these practices will help me write code that is not only correct, but also clean, efficient, and professional. Code that others can read, understand, and even trust.
+From a software engineering perspective, frameworks also encourage modular thinking. A web page becomes a collection of reusable components rather than one large block of code. This improves readability, maintainability, and scalability, especially in team environments.
+
+## Personal Experience and Long-Term Perspective ##
+When I first started using Bootstrap 5, it felt overwhelming. The grid system and utility classes took time to understand. However, after building a few responsive pages, I began to appreciate how quickly I could structure layouts. Instead of spending long periods adjusting CSS positioning, I could rely on the framework’s built-in system and focus more on overall design and usability.
+
+Other frameworks, such as Semantic UI, take slightly different approaches, often emphasizing more descriptive class names. Each framework has trade-offs, but they share the goal of improving structure and efficiency in front-end development.
+
+Raw HTML and CSS remain essential foundations, and I believe understanding them is important before relying heavily on a framework. However, UI frameworks provide a valuable layer of abstraction that reduces repetitive work and improves consistency. Although they require an initial investment of time and effort, the long-term benefits in productivity, organization, and scalable design make them worthwhile tools in modern web development.
 
 *Used ChatGPT to help with grammar/punctuation*
