@@ -31,8 +31,6 @@ One of the biggest benefits is efficiency. With a few well-chosen classes, you c
 ## Personal Experience and Long-Term Perspective ##
 When I first started using Bootstrap 5, it felt overwhelming. The grid system and utility classes took time to understand. However, after building a few responsive pages, I began to appreciate how quickly I could structure layouts. Instead of spending long periods adjusting CSS positioning, I could rely on the framework’s built-in system and focus more on overall design and usability.
 
-Other frameworks, such as Semantic UI, take slightly different approaches, often emphasizing more descriptive class names. Each framework has trade-offs, but they share the goal of improving structure and efficiency in front-end development.
-
 Raw HTML and CSS remain essential foundations, and I believe understanding them is important before relying heavily on a framework. However, UI frameworks provide a valuable layer of abstraction that reduces repetitive work and improves consistency. Although they require an initial investment of time and effort, the long-term benefits in productivity, organization, and scalable design make them worthwhile tools in modern web development.
 
 *Used ChatGPT to help with grammar/punctuation*
