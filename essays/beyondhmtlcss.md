@@ -26,9 +26,7 @@ However, as projects grow larger, maintaining consistency becomes more difficult
 
 This is where frameworks like Bootstrap 5 become valuable. They provide a structured grid system, responsive utilities, and prebuilt components such as navbars, containers, and cards. Instead of building everything from scratch, you use a tested and organized system.
 
-One of the biggest benefits is efficiency. With a few well-chosen classes, you can create responsive layouts that look clean and professional. Another key benefit is consistency. UI frameworks follow a unified design system, making spacing, breakpoints, and components predictable.
-
-From a software engineering perspective, frameworks also encourage modular thinking. A web page becomes a collection of reusable components rather than one large block of code. This improves readability, maintainability, and scalability, especially in team environments.
+One of the biggest benefits is efficiency. With a few well-chosen classes, you can create responsive layouts that look clean and professional. Another key benefit is consistency. UI frameworks follow a unified design system, making spacing, breakpoints, and components predictable. From a software engineering perspective, frameworks also encourage modular thinking. A web page becomes a collection of reusable components rather than one large block of code. This improves readability, maintainability, and scalability, especially in team environments.
 
 ## Personal Experience and Long-Term Perspective ##
 When I first started using Bootstrap 5, it felt overwhelming. The grid system and utility classes took time to understand. However, after building a few responsive pages, I began to appreciate how quickly I could structure layouts. Instead of spending long periods adjusting CSS positioning, I could rely on the framework’s built-in system and focus more on overall design and usability.
