@@ -20,7 +20,7 @@ While the learning curve can feel steep, UI frameworks offer important benefits 
 ## Raw HTML and CSS: What UI Do Frameworks Offer ##
 Raw HTML and CSS provide full control over design and layout. For small projects, this approach can work well and helps build a strong foundation. You learn how positioning, margins, padding, and responsiveness work at a deeper level.
 <img src="../img/htmlandcss.png"
-     class="img-thumbnail float-end ms-3 mb-2"
+     class="img-thumbnail float-end ms-3 mb-3"
      width="400px">
 However, as projects grow larger, maintaining consistency becomes more difficult. You may find yourself rewriting similar CSS rules and troubleshooting layout issues repeatedly. Ensuring responsiveness across devices can also require significant manual effort. Over time, this can slow development and make collaboration more challenging.
 
