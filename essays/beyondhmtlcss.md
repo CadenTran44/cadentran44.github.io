@@ -13,6 +13,8 @@ labels:
 ## The Value of UI Frameworks ##
 UI frameworks are not simple. Learning something like Bootstrap 5 can feel almost like learning a new programming language. There are new class names, layout systems, and design conventions to understand. At first, it can feel frustrating. If HTML and CSS already exist, why add another layer on top? Why not just use raw HTML and CSS?
 
+<img width="400px" src="../img/uiframeworks.jpg" class="img-thumbnail" >
+
 While the learning curve can feel steep, UI frameworks offer important benefits that become clearer over time. They are not just collections of styles, but structured systems designed to improve how we build and maintain web interfaces.
 
 ## Why Not Just Use Raw HTML and CSS? ##
