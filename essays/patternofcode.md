@@ -8,7 +8,7 @@ published: true
 labels:
   - Design Patterns
   - Software Engineering
-  - React
+  - System Design
 ---
 
 ## What Are Design Patterns? ##
