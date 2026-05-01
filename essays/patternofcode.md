@@ -21,7 +21,7 @@ I did some research and found that the term was popularized by the "Gang of Four
 My final project, [Bow-lletins](https://bowlletins.vercel.app/), is a campus bulletin board web app for UH Mānoa where students can find jobs, events, study groups, and internships. As the project grew, it became clear that without some kind of structure, the codebase would get pretty messy fast. That is where design patterns became useful in practice rather than just in theory.
 <img src="../img/gangof4.png"
      class="img-thumbnail float-end ms-3 mb-3 mt-3"
-     width="200px">
+     width="400px">
  
 One of the most visible patterns was definitely the component-based design. Bow-lletins has several content types like job listings, campus events, study groups, and internships. Each needing its own card layout. Rather than copy-pasting similar UI structures and adjusting them for each case, we centralized card creation so that a single point in the code determined which component to render based on the content type. This made it easy to update a card's behavior or appearance without touching every page it appeared on.
  
