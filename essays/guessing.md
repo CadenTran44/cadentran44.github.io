@@ -30,7 +30,7 @@ One concrete benefit was that estimates gave the team a shared sense of priority
  
 ## Tracking Actual Effort ##
  
-My tracking method was informal. I kept a rough mental note of how long things took rather than logging hours in a tool or spreadsheet. That meant my tracking was probably not very accurate in an objective sense. I could tell the difference between a task that took thirty minutes and one that took an entire afternoon, but I likely could not account for interruptions, context switching, or the time spent staring at a bug before identifying it.
+My tracking method was pretty informal. I kept a rough mental note of how long things took rather than logging hours in a tool or spreadsheet. That meant my tracking was probably not very accurate in an objective sense. I could tell the difference between a task that took thirty minutes and one that took an entire afternoon, but I likely could not account for interruptions, context switching, or the time spent staring at a bug before identifying it.
  
 Despite that imprecision, the mental notes were still useful. They gave me a general sense of where my time was going and helped me calibrate future estimates. If I spent much longer than expected on something, I would remember that next time a similar task came up.
  
