@@ -20,6 +20,9 @@ I did not break tasks into subtasks and add up the parts, which in hindsight pro
 ## Did Estimating Help Even When It Was Wrong? ##
  
 Surprisingly, yes. Even when my estimates were off, the act of estimating forced me to think through what a task actually involved before starting it. It is easy to look at an issue on the project board and assume it is simple until you sit down and think about what steps are actually required. Estimating made me do that thinking upfront.
+<img src="../img/gangof4.png"
+     class="img-thumbnail float-end ms-3 mb-3 mt-3"
+     width="400px">
  
 There were tasks I underestimated, usually ones that involved debugging or integrating with something unfamiliar. There were also tasks I overestimated, typically ones I had done something similar to before and moved through faster than expected. The mix kept me from being consistently overconfident, which I think helped with planning.
  
