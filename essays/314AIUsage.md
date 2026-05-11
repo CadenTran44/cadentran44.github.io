@@ -21,7 +21,7 @@ This essay goes through each part of the course and looks at how I used AI, what
 
 ## Personal Experience with AI ##
 
-**Experience WODs (e.g., E18)**
+**Experience WODs**
 
 I used Claude on most of the Experience WODs. My usual approach was to try the problem myself first, and then bring in Claude when I got stuck. For the functional programming WOD involving Underscore, I had the right idea but was chaining methods in the wrong order. My prompt was something like:
 
