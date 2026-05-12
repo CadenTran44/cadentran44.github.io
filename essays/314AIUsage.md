@@ -71,15 +71,11 @@ It gave me a before and after example that showed exactly what breaks and why. T
 
 **Answering a Question in Class or on Discord**
 
-I did not use Claude to answer other students' questions. If I knew the answer from my own experience I would share it. If I did not know, I stayed quiet. Using Claude to generate an answer and then passing it off as my own did not feel right. I also figured a classmate asking a question deserved a real human perspective, not something I had just looked up thirty seconds before.
+I did not use Claude to answer other student's questions. If I knew the answer from my own experience I would share it. If I did not know, I stayed quiet. Using Claude to generate an answer and then passing it off as my own doesn't really feel right. I also figured a classmate asking a question deserved a real human perspective, not something I had just looked up thirty seconds before.
 
 **Asking or Answering a Smart Question**
 
-Before posting a question on Discord, I would sometimes run it by Claude first to see if there was an obvious thing I had missed.
-
-> I am about to ask my classmates why my Meteor subscription is not stopping when the component unmounts. Here is what I have tried. Am I missing something obvious before I post?
-
-About half the time Claude found something I had overlooked and I fixed it myself before posting. The other half it confirmed I had a real problem and I posted the question. That felt like a reasonable use of the tool.
+I never asked or answered one yet.
 
 **Coding Examples**
 
