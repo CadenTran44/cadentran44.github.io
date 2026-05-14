@@ -35,7 +35,9 @@ The specific tools might differ, but the discipline is the same: you track what 
 Coding standards are agreed-upon rules for how code should be written and formatted within a project. That includes things like how variables are named, how functions are structured, how long lines should be, and how to handle errors consistently.
 
 In ICS 314 we used ESLint to enforce standards automatically. At first it felt like busywork, fixing spacing issues and import ordering that seemed trivial. Over time I realized the point was not the specific rules. The point was consistency. When everyone on a team writes code that looks roughly the same, it is much easier to read each other's work, catch bugs during review, and hand off tasks without friction.
-
+<img src="../img/cat-typing.gif"
+     class="img-thumbnail float-end ms-3 mb-3 mt-3"
+     width="400px">
 This matters just as much outside of web development. A team writing embedded software for a medical device needs coding standards more than most, because inconsistent code in that context can have serious consequences. A group of data engineers writing ETL pipelines benefits from standards that make it obvious when something is wrong. The tools used to enforce standards might be different, but the underlying value of readable, consistent code does not change based on what kind of software you are building.
 
 ## Ethics in Software Engineering ##
