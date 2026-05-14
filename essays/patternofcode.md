@@ -33,4 +33,6 @@ On the backend, we avoided creating a new database connection on every request, 
 
 I of course, did not sit down with a list of patterns and decide which ones to use. They emerged from real problems, and I only recognized them by name afterward. That is actually what makes design patterns valuable in my opinion, they describe solutions that developers naturally reach for, and naming them makes it easier to talk about, teach, and revisit those decisions later. Understanding them has made me more aware of the structure in my own code, and better at explaining that structure to others.
 
+Overall though, I'm glad what I got of this course and can't wait to see where else I can utilize these skills.
+
 *Used ChatGPT to help with grammar and punctuation.*
