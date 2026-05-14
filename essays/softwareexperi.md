@@ -35,15 +35,15 @@ The specific tools might differ, but the discipline is the same: you track what 
 Coding standards are agreed-upon rules for how code should be written and formatted within a project. That includes things like how variables are named, how functions are structured, how long lines should be, and how to handle errors consistently.
 
 In ICS 314 we used ESLint to enforce standards automatically. At first it felt like busywork, fixing spacing issues and import ordering that seemed trivial. Over time I realized the point was not the specific rules. The point was consistency. When everyone on a team writes code that looks roughly the same, it is much easier to read each other's work, catch bugs during review, and hand off tasks without friction.
-<img src="../img/cat-typing.gif"
-     class="img-thumbnail float-end ms-3 mb-3 mt-3"
-     width="400px">
+
 This matters just as much outside of web development. A team writing embedded software for a medical device needs coding standards more than most, because inconsistent code in that context can have serious consequences. A group of data engineers writing ETL pipelines benefits from standards that make it obvious when something is wrong. The tools used to enforce standards might be different, but the underlying value of readable, consistent code does not change based on what kind of software you are building.
 
 ## Ethics in Software Engineering ##
 
 Ethics in software engineering means thinking carefully about the impact your software has on the people who use it and on the people it affects, even if they never use it directly. It means asking not just whether something works, but whether it should be built, and how it should be built.
-
+<img src="../img/cat-typing.gif"
+     class="img-thumbnail float-end ms-3 mb-3 mt-3"
+     width="400px">
 In this course we read the ACM Code of Ethics and talked about things like privacy, accessibility, and the responsibility developers have to be honest about what their software does. Those conversations were grounded in web app examples, but the questions they raised go much further.
 
 A software engineer working on facial recognition technology has to think about bias and who gets harmed if the system makes mistakes. A developer building a recommendation algorithm has to think about what the system is actually optimizing for and what effects that has on users. Someone writing software that controls physical systems, like medical devices or autonomous vehicles, is making decisions that directly affect people's safety. In all of these cases, the technical work is inseparable from ethical responsibility. Knowing how to write clean code is not enough. You also have to be willing to ask whether what you are building is actually good.
