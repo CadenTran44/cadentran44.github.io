@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "My Software Engineering Experience"
 # All dates must be YYYY-MM-DD format!
-date: 2026-05-10
+date: 2026-05-13
 published: true
 labels:
   - Software Engineering
@@ -24,7 +24,7 @@ If I were building a mobile app, a desktop tool, or even a command-line program,
 
 ## Configuration Management ##
 
-Configuration management is the practice of tracking and controlling changes to a software system over time. In this course that mostly meant using Git and GitHub, branching for new features, reviewing code before merging, and keeping a clean commit history.
+Configuration management is the practice of tracking and controlling changes to a software system over time. In this course that mostly meant using GitHub, branching for new features, reviewing code before merging, and keeping a clean commit history.
 
 It is easy to think of this as a web development thing because that is the context where I learned it. But configuration management matters anywhere software is built by more than one person, or by one person over a long period of time. A data science team working on a machine learning pipeline needs to track which version of the model was trained on which dataset. A game studio needs to manage changes to a codebase across dozens of contributors without breaking each other's work. A research team writing simulation software needs to be able to reproduce results from six months ago.
 
