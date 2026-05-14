@@ -48,4 +48,4 @@ A software engineer working on facial recognition technology has to think about 
 
 ## Conclusion ##
 
-The web application we built in ICS 314 was the project. The software engineering concepts behind it were the education. Design patterns, configuration management, coding standards, and ethics are not web-specific ideas. They are ways of thinking about software that will be useful in any technical role I end up in, regardless of the tools or the domain. That is probably the most useful thing I am taking out of this course.
+From how I see it, the web application we built was the project. The software engineering concepts behind it were the education. Design patterns, configuration management, coding standards, and ethics are not web-specific ideas. They are ways of thinking about software that will be useful in any technical role I end up in, regardless of the tools or the domain. That is probably the most useful thing I am taking out of this course.
