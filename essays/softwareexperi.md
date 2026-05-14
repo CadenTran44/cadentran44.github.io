@@ -18,7 +18,7 @@ When I started ICS 314, I assumed it was mostly about learning how to build webs
 
 A design pattern is a reusable solution to a problem that comes up often in software development. It is not a piece of code you copy and paste. It is more like a named strategy that developers recognize and can apply to similar situations in different contexts.
 
-In ICS 314 I encountered patterns like the Observer pattern, where one object notifies others when its state changes, and the Singleton pattern, which ensures only one instance of something exists at a time. These showed up in how Meteor handles reactive data, but the patterns themselves are not specific to Meteor or to the web.
+From in and outside class, I encountered patterns like the Observer pattern, where one object notifies others when its state changes, and the Singleton pattern, which ensures only one instance of something exists at a time. These showed up in how Meteor handles reactive data, but the patterns themselves are not specific to Meteor or to the web.
 
 If I were building a mobile app, a desktop tool, or even a command-line program, the same patterns would apply. A game tracking player score changes would benefit from the Observer pattern. A configuration manager that should only ever have one instance loaded at a time would use Singleton. The names and concepts travel across domains because the underlying problems they solve keep showing up in software regardless of what you are building. Learning to recognize the pattern is more valuable than memorizing a specific implementation.
 
