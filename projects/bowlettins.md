@@ -41,3 +41,5 @@ Building Bow-lletins taught me what it actually looks like when multiple people 
 I also got real experience with Issue Driven Project Management. Moving from loose assignments to discrete issues with clear owners and definitions of done made the work trackable and helped catch blockers before they became larger problems. That workflow is something I plan to carry into future team projects.
  
 On the technical side, I came away with a better understanding of how Next.js Server Components interact with the Prisma client, how session data flows through NextAuth.js into page components, and how to structure API routes that handle both validation and database writes in a clean and predictable way.
+
+Our Project: [Bow-lletins](https://bowlletins.github.io/)
