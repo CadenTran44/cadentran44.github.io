@@ -4,7 +4,7 @@ type: essay
 title: "Guessing Well Enough"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-04
-published: true
+published: false
 labels:
   - Software Engineering
   - Project Management

@@ -14,7 +14,7 @@ labels:
 ## Introduction ##
 
 AI tools have become a normal part of how a lot of software gets written now. In ICS 314 that was true for me too. I used Claude by Anthropic for most of the course, and I used it heavily. That included everything from working through WODs to building the final project.
-
+ 
 I picked Claude over other options mostly because it explained things rather than just producing code. When I asked it a question, it usually walked through the reasoning, which made it easier to actually understand what was happening rather than just copying an answer. That said, using it as much as I did came with some real trade-offs that I noticed over the semester.
 
 This essay goes through each part of the course and looks at how I used AI, what worked, and what did not.

@@ -4,7 +4,7 @@ type: essay
 title: "Beyond HTML & CSS"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-26
-published: true
+published: false
 labels:
   - UI Frameworks
   - Web Design

@@ -4,7 +4,7 @@ type: essay
 title: "What Coding Standards Do"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-12
-published: true
+published: false
 labels:
   - Coding Standards
   - ESLint
